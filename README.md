@@ -2,7 +2,7 @@
 
 Python implementation of robust linear regression in the multiple regression and multivariate regression cases using the minimum covariance determinant (MCD).
 
-Usage ([https://github.com/stevenstetzler/mcd_regression/tree/main/docs/examples/example.ipynb](docs/examples/example.ipynb)):
+Usage ([docs/examples/example.ipynb](https://github.com/stevenstetzler/mcd_regression/tree/main/docs/examples/example.ipynb)):
 ```python
 >>> from mcd_regression import MCDRegression
 >>> mcdr = MCDRegression()
