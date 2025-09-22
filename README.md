@@ -1,4 +1,4 @@
-# mcd_regression
+# mcd-regression
 
 Python implementation of robust linear regression in the multiple regression and multivariate regression cases using the minimum covariance determinant (MCD).
 
